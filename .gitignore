@@ -1,0 +1,23 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Large generated files
+outputs/models/*.pkl
+outputs/models/*.keras
+outputs/processed_data/*.csv
+
+# Keep folder structure for these though
+!outputs/models/.gitkeep
+!outputs/processed_data/.gitkeep
