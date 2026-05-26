@@ -9,18 +9,6 @@ from the UCI Machine Learning Repository. Three traditional ML models
 custom Artificial Neural Network.
 
 
-## Project Structure
-
-heart-disease-prediction/
-├── data/                    # Cleveland Heart Disease dataset
-├── notebooks/               # Jupyter notebooks
-│   ├── 01_preprocessing_and_eda.ipynb
-│   ├── 02_traditional_ml.ipynb
-│   └── 03_ann_model.ipynb
-├── outputs/                 # Generated plots and processed data
-│   └── plots/
-└── report/                  # Final report (Word + PDF)
-
 ## Tech Stack
 
 - Python 3.11.9
